@@ -18,3 +18,7 @@ CREATE TABLE orders (
     created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
     FOREIGN KEY (user_id) REFERENCES users(id)
 );
+
+
+DELETE FROM orders;
+ALTER TABLE orders AUTO_INCREMENT = 1;
