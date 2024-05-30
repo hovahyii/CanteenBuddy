@@ -27,7 +27,7 @@
 - **Web Interface**: For students to place orders and for workers to manage those orders.
 
 ### Presentation Slide
-[CanteenBuddy PPTX](https://www.canva.com/design/DAGGpEDKla8/Sd8BpAdUfBxiU9I5wILFGg/edit?utm_content=DAGGpEDKla8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+[CanteenBuddy Canva Slide](https://www.canva.com/design/DAGGpEDKla8/Sd8BpAdUfBxiU9I5wILFGg/edit?utm_content=DAGGpEDKla8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ### Installation
 
@@ -57,4 +57,4 @@
 <a target="_blank" rel="noopener noreferrer" href="https://www.buymeacoffee.com/hovahyii"><img src="https://github.com/appcraftstudio/buymeacoffee/raw/master/Images/snapshot-bmc-button.png" width="300" style="max-width:100%;"></a>
 
 ### Appreciation
-We would like to express our appreciation to Sime Darby for sponsoring us the Arduino kits and Chumbaka for organising this wonderful Train the Trainer event. Sincerely from  UMPSA mentos.
+We would like to express our appreciation to Sime Darby for sponsoring us the Arduino kits and Chumbaka for organising this wonderful Train the Trainer event. Sincerely from  UMPSA mentors.
