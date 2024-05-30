@@ -26,6 +26,9 @@
 - **LCD Screen**: Displays the current status of food orders.
 - **Web Interface**: For students to place orders and for workers to manage those orders.
 
+### Presentation Slide
+[CanteenBuddy PPTX](https://www.canva.com/design/DAGGpEDKla8/Sd8BpAdUfBxiU9I5wILFGg/edit?utm_content=DAGGpEDKla8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 ### Installation
 
 1. **Clone the repository:**

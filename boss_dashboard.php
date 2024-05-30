@@ -122,7 +122,7 @@ $conn->close();
     <img src="logos/chumbaka.png" alt="Chumbaka Logo" style="width: 100px;">
     <img src="logos/stemlab-logo-large.png" alt="STEM Lab Logo" style="width: 100px;">
 
-    <h1>Cafeteria Workers Dashboard</h1>
+    <h1>Cafeteria Worker Dashboard</h1>
     <p>Total Users: <?php echo $user_count; ?></p>
 
     <h2>Manage Orders</h2>
