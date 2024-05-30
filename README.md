@@ -26,9 +26,6 @@
 - **LCD Screen**: Displays the current status of food orders.
 - **Web Interface**: For students to place orders and for workers to manage those orders.
 
-### Presentation Slide
-[CanteenBuddy Canva Slide](https://www.canva.com/design/DAGGpEDKla8/Sd8BpAdUfBxiU9I5wILFGg/edit?utm_content=DAGGpEDKla8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-
 ### Installation
 
 1. **Clone the repository:**
@@ -51,6 +48,12 @@
 1. Students: Visit the student order page, view the menu, and place an order.
 2. Cafeteria Workers: Use the worker dashboard to view incoming orders and update their status.
 3. Real-Time Updates: The ESP32 will display the status of orders on the LCD screen, and students will receive notifications when their order is ready.
+
+### Presentation Slide
+[CanteenBuddy Canva Slide](https://www.canva.com/design/DAGGpEDKla8/Sd8BpAdUfBxiU9I5wILFGg/edit?utm_content=DAGGpEDKla8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+### See my post on LinkedIn
+[CanteenBuddy](https://www.linkedin.com/feed/update/urn:li:activity:7201914986003091456/)
 
 ### Like this project? You can show your appreciation by buying Hovah a coffee ☕
 
