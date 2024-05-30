@@ -97,7 +97,7 @@ $conn->close();
 </head>
 <body>
   <div class="login-container">
-    <img src="logos/yic.png" alt="Young Innovate Logo">
+  <img src="logos/sime-darby.png" alt="Sime Darby and Young Innovate Logo">
     <img src="logos/chumbaka.png" alt="Chumbaka Logo">
     <img src="logos/stemlab-logo-large.png" alt="STEM Lab Logo">
     <form method="post">

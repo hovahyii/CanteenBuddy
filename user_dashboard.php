@@ -95,7 +95,7 @@ $conn->close();
 </head>
 <body>
   <div class="dashboard-container">
-  <img src="logos/yic.png" alt="Young Innovate Logo" style="width: 100px;">
+    <img src="logos/sime-darby.png" alt="Sime Darby and Young Innovate Logo" style="width: 100px;">
     <img src="logos/chumbaka.png" alt="Chumbaka Logo" style="width: 100px;">
     <img src="logos/stemlab-logo-large.png" alt="STEM Lab Logo" style="width: 100px;">
     <h1>User Dashboard</h1>
