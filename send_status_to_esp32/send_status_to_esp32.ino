@@ -5,7 +5,6 @@
 const char* ssid = "hovahyii.vercel.app";
 const char* password = "hovah1234";
 
-
 const int lcdAddress = 0x27; // I2C address of your LCD
 const int lcdCols = 16;      // Number of columns on your LCD
 const int lcdRows = 2;       // Number of rows on your LCD
@@ -15,6 +14,9 @@ LiquidCrystal_I2C lcd(lcdAddress, lcdCols, lcdRows);
 WebServer server(80);
 
 String lcdSentence = "";
+unsigned long previousMillis = 0; 
+const long interval = 1000;  // interval at which to blink (milliseconds)
+bool blinkState = false;
 
 void displayLCD(const String& sentence) {
   lcd.clear();
@@ -84,5 +86,19 @@ void setup() {
 void loop() {
   if (WiFi.status() == WL_CONNECTED) {
     server.handleClient();
+  }
+  
+  unsigned long currentMillis = millis();
+
+  if (currentMillis - previousMillis >= interval) {
+    previousMillis = currentMillis;
+    
+    // if the LED is off turn it on and vice-versa:
+    if (blinkState) {
+      lcd.backlight();
+    } else {
+      lcd.noBacklight();
+    }
+    blinkState = !blinkState;
   }
 }

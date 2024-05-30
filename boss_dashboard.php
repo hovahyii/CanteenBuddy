@@ -131,7 +131,7 @@ $conn->close();
         <th>Order ID</th>
         <th>Food Item</th>
         <th>Status</th>
-        <th>Estimated Time</th>
+        <th>Estimated Time (min)</th>
         <th>Action</th>
       </tr>
       <?php while($row = $result->fetch_assoc()) { ?>

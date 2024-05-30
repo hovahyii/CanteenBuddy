@@ -73,24 +73,24 @@ $result = $conn->query($sql);
     <?php
     if ($result->num_rows > 0) {
       echo "<table border='1'>";
-      echo "<tr><th>Order ID</th><th>Food Item</th><th>Status</th><th>Estimated Time</th><th>Created At</th><th>Image</th></tr>";
+      echo "<tr><th>Order ID</th><th>Food Item</th><th>Status</th><th>Estimated Time (min)</th><th>Created At</th><th>Image</th></tr>";
       while($row = $result->fetch_assoc()) {
         $food_image = "";
         switch($row["food_item"]) {
           case "Spaghetti":
-            $food_image = "https://dummyimage.com/100x100/000/fff&text=Spaghetti";
+            $food_image = "https://upload.wikimedia.org/wikipedia/commons/2/2a/Spaghetti_al_Pomodoro.JPG";
             break;
           case "Chicken Chop":
-            $food_image = "https://dummyimage.com/100x100/000/fff&text=Chicken+Chop";
+            $food_image = "https://simplefoodvegetarian.com/wp-content/uploads/2018/06/Chicken-Chop-768x432.jpg";
             break;
           case "Chicken Popcorn":
-            $food_image = "https://dummyimage.com/100x100/000/fff&text=Chicken+Popcorn";
+            $food_image = "https://i.pinimg.com/originals/8a/5f/a1/8a5fa10bd4e45092f6c9c3245ca4db61.jpg";
             break;
           case "Teh Tarik":
-            $food_image = "https://dummyimage.com/100x100/000/fff&text=Teh+Tarik";
+            $food_image = "https://th.bing.com/th/id/R.9f55540583e89c4f900fb65691134206?rik=kROs6szR3uWe6Q&riu=http%3a%2f%2fmasses.com.my%2fwp-content%2fuploads%2f2019%2f12%2fteh-tarik.jpg&ehk=VWfYOvX1Msvn6YO%2fWHjd48iXKpNpgRwU3n6pXxFqSlA%3d&risl=&pid=ImgRaw&r=0";
             break;
           case "Milo Ais":
-            $food_image = "https://dummyimage.com/100x100/000/fff&text=Milo+Ais";
+            $food_image = "https://2.bp.blogspot.com/-78uVKXXWpps/T0HrYqnuy0I/AAAAAAAAFR8/q0YVbN4X6HU/s1600/milo+ais+kaw.JPG";
             break;
         }
         echo "<tr>";

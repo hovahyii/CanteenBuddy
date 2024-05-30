@@ -101,23 +101,23 @@ $conn->close();
     <h1>User Dashboard</h1>
     <div class="menu">
       <div class="menu-item">
-        <img src="https://dummyimage.com/150x150/000/fff&text=Spaghetti" alt="Spaghetti">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Spaghetti_al_Pomodoro.JPG" alt="Spaghetti">
         <p>Spaghetti</p>
       </div>
       <div class="menu-item">
-        <img src="https://dummyimage.com/150x150/000/fff&text=Chicken+Chop" alt="Chicken Chop">
+        <img src="https://simplefoodvegetarian.com/wp-content/uploads/2018/06/Chicken-Chop-768x432.jpg" alt="Chicken Chop">
         <p>Chicken Chop</p>
       </div>
       <div class="menu-item">
-        <img src="https://dummyimage.com/150x150/000/fff&text=Chicken+Popcorn" alt="Chicken Popcorn">
+        <img src="https://i.pinimg.com/originals/8a/5f/a1/8a5fa10bd4e45092f6c9c3245ca4db61.jpg" alt="Chicken Popcorn">
         <p>Chicken Popcorn</p>
       </div>
       <div class="menu-item">
-        <img src="https://dummyimage.com/150x150/000/fff&text=Teh+Tarik" alt="Teh Tarik">
+        <img src="https://th.bing.com/th/id/R.9f55540583e89c4f900fb65691134206?rik=kROs6szR3uWe6Q&riu=http%3a%2f%2fmasses.com.my%2fwp-content%2fuploads%2f2019%2f12%2fteh-tarik.jpg&ehk=VWfYOvX1Msvn6YO%2fWHjd48iXKpNpgRwU3n6pXxFqSlA%3d&risl=&pid=ImgRaw&r=0" alt="Teh Tarik">
         <p>Teh Tarik</p>
       </div>
       <div class="menu-item">
-        <img src="https://dummyimage.com/150x150/000/fff&text=Milo+Ais" alt="Milo Ais">
+        <img src="https://2.bp.blogspot.com/-78uVKXXWpps/T0HrYqnuy0I/AAAAAAAAFR8/q0YVbN4X6HU/s1600/milo+ais+kaw.JPG" alt="Milo Ais">
         <p>Milo Ais</p>
       </div>
     </div>
