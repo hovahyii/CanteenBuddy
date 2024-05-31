@@ -2,6 +2,8 @@
 
 **CanteenBuddy** is a smart food ordering system designed to streamline the process of managing food orders in school cafeterias. By using an open-source microcontroller like the ESP32, CanteenBuddy helps reduce wait times, minimize errors, and enhance the overall dining experience for students while making the workflow easier for cafeteria workers.
 
+Read more at: [MakerPro](https://maker.pro/arduino/projects/introducing-canteenbuddy-revolutionizing-school-cafeteria-operations-with-iot)
+
 ### Screenshots
 
 #### Student Order Page
@@ -60,4 +62,4 @@
 <a target="_blank" rel="noopener noreferrer" href="https://www.buymeacoffee.com/hovahyii"><img src="https://github.com/appcraftstudio/buymeacoffee/raw/master/Images/snapshot-bmc-button.png" width="300" style="max-width:100%;"></a>
 
 ### Appreciation
-We would like to express our appreciation to Sime Darby for sponsoring us the Arduino kits and Chumbaka for organising this wonderful Train the Trainer event. Sincerely from  UMPSA mentors.
+We would like to express our appreciation to Sime Darby for sponsoring us the Arduino kits and Chumbaka for organising this wonderful Train the Trainer event. Sincerely from UMPSA mentors.
